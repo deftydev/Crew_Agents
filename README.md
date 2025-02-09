@@ -1,21 +1,21 @@
 # Crew_Agents
 
-## Create a Virtaul Env using Venv 
+# Create a Virtaul Env using Venv 
 
-# python -m venv agents
+## python -m venv agents
 
-## Activate a virtaul env named Agents
+# Activate a virtaul env named Agents
 
-# agents\Scripts\activate
+## agents\Scripts\activate
 
-## Install requirements.txt
+# Install requirements.txt
 
-# pip install -r requirements.txt
+## pip install -r requirements.txt
 
-## For running single agent
+# For running single agent
 
-# python crew_single_agent_demo.py
+## python crew_single_agent_demo.py
 
-## For running multi agents demo
+# For running multi agents demo
 
-# python multi_agent_demo.py
+## python multi_agent_demo.py
